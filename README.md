@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Incident response and management
 - 📫 How to reach me www.linkedin.com/in/m-n-iqbal
-- ⚡ Fun fact: Versed in Python 
+
 
 <!---
 M-N-IQBAL/M-N-IQBAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
