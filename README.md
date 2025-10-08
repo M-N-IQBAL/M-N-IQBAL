@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-N-IQBAL
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Incident response and management
-- 📫 How to reach me www.linkedin.com/in/m-n-iqbal
+- 📫 How to reach me [LinkedIn](www.linkedin.com/in/m-n-iqbal) 
 
 
 <!---
