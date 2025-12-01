@@ -26,6 +26,11 @@ Whenever I get stuck, I research, test, and sometimes ask ChatGPT to help me und
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
+### 📜 Certifications
+
+[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.credly.com/badges/c6c8f0e3-0b5e-4439-a50d-4e79e91b1821/public_url)
+
+[![CompTIA Security+ (SY0-701)](https://img.shields.io/badge/CompTIA%20Security%2B%20701-EE2E24?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/2c12f7e6-5a6c-49df-95be-76d8f7c9b3ec/public_url)
 
 ### 📚 What I’m Building
 I’m documenting my cybersecurity homelab and sharing the process so others can learn and build along.  
@@ -42,7 +47,6 @@ The goal is to make complex security concepts practical and repeatable through s
 
 > I break things to understand them — and document the process so others can build securely.
 
-> Learning security is about curiosity, patience, and doing the work — even when it’s hard.
 
 <!---
 M-N-IQBAL/M-N-IQBAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
